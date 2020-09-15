@@ -41,16 +41,27 @@ If this pull request does not represent any visual changes, feel free to remove 
 -->
 
 **Checklist**
+<!--
+Check all applicable items and delete not applicable
+E.g. item about optimizing images if this pull request does not brings new images
+-->
 
 - [ ] I've tested everything and everything works well
-- [ ] I've checked that the code in this pull request follows [Pixel Point Development Guidelines](https://github.com/pixel-point/development-guidelines)
-- [ ] Yes, I've also checked here, there and there and I've also done this, that and that
+- [ ] I've tested these changes in other browsers
+- [ ] I've checked these changes on all breakpoints
+- [ ] I've checked these changes on pixel-perfect
+- [ ] I've optimized images using [squoosh.app](https://squoosh.app)
+- [ ] I've checked that the code follows [Pixel Point Development Guidelines](https://github.com/pixel-point/development-guidelines)
 
 **References**
 <!--
-Tag any related issues or tasks.
+Tag any related issues or tasks in Notion.
 
-E.g. Resolves #1.
+Some examples:
+1. Resolves #1.
+2. Closes #1.
+3. Fixes #1.
+4. Closes the task [Update README](https://www.notion.so/) in Notion.
 
 You can read more about linking a pull request to an issue here — https://docs.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue
 
