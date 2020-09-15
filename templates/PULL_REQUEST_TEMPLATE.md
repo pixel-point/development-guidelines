@@ -48,7 +48,7 @@ If this pull request does not represent any visual changes, feel free to remove 
 
 **References**
 <!--
-Tag any related issues.
+Tag any related issues or tasks.
 
 E.g. Resolves #1.
 
