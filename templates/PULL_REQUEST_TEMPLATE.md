@@ -42,15 +42,15 @@ If this pull request does not represent any visual changes, feel free to remove 
 
 **Checklist**
 <!--
-Check all applicable items and delete not applicable
-E.g. item about optimizing images if this pull request does not brings new images
+Check all applicable items and delete not applicable ones
+E.g. item about optimizing images if this pull request does not bring new images
 -->
 
 - [ ] I've tested everything and everything works well
 - [ ] I've tested these changes in other browsers
 - [ ] I've checked these changes on all breakpoints
 - [ ] I've checked these changes on pixel-perfect
-- [ ] I've optimized images using [squoosh.app](https://squoosh.app)
+- [ ] I've optimized images via [squoosh.app](https://squoosh.app)
 - [ ] I've checked that the code follows [Pixel Point Development Guidelines](https://github.com/pixel-point/development-guidelines)
 
 **References**
