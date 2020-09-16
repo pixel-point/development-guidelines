@@ -11,6 +11,8 @@
 1. We use Conventional Commits for commit messages. You can read more about Conventional Commits [here](https://www.conventionalcommits.org/en/v1.0.0/). [Here](https://cheatography.com/albelop/cheat-sheets/conventional-commits/) you can find a useful Conventional Commits Cheat Sheet.
 2. We try to make our commits "atomic". [Here](https://www.freshconsulting.com/atomic-commits/) and [here](https://en.wikipedia.org/wiki/Atomic_commit) you can read more about Atomic commits.
 
+![image](https://user-images.githubusercontent.com/20713191/93302208-0af33700-f813-11ea-8d5d-ea4fae2ef8ab.png)
+
 ## Pull Requests
 
 Pull requests should contain:
