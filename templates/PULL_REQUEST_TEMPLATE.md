@@ -14,7 +14,7 @@ An example:
 - renames global CSS class "block" into "section"
 - fixes a typo in Hero for Home
 
-If this pull request does not contain any additional changes, feel free to remove this section.
+If this pull request does not contain any additional changes, set N/A as a value for it.
 -->
 
 **Steps to test**
@@ -37,13 +37,12 @@ If the project **does not have** auto-deployment:
 <!-- 
 Attach any relevant screenshots.
 
-If this pull request does not represent any visual changes, feel free to remove this section.
+If this pull request does not represent any visual changes, set N/A as a value for it.
 -->
 
 **Checklist**
 <!--
-Check all applicable items and delete not applicable ones
-E.g. item about optimizing images if this pull request does not bring new images
+Check all applicable items.
 -->
 
 - [ ] I've tested everything and everything works well
@@ -52,6 +51,17 @@ E.g. item about optimizing images if this pull request does not bring new images
 - [ ] I've checked these changes on pixel-perfect
 - [ ] I've optimized images via [squoosh.app](https://squoosh.app)
 - [ ] I've checked that the code follows [Pixel Point Development Guidelines](https://github.com/pixel-point/development-guidelines)
+
+**TODO**
+<!--
+Add any tasks that have to be done in the future.
+
+An example:
+- [ ] Add animations for items while they are being changed in **Products**
+- [ ] Add stripes on background for **Awards**
+
+If this pull request does not have any tasks left, set N/A as a value for it.
+-->
 
 **References**
 <!--
@@ -65,5 +75,5 @@ Some examples:
 
 You can read more about linking a pull request to an issue here — https://docs.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue
 
-If this pull request does not contain any references, feel free to remove this section.
+If this pull request does not contain any references, set N/A as a value for it.
 -->
