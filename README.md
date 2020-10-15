@@ -22,14 +22,22 @@ There are tons of Git cheat sheets out there in the web, but in case you still d
 
 Git workflow is a kind of an instruction for how to use Git to accomplish work in a consistent and productive manner. It contains recommendations on introducing changes, solving conflicts, using branches, and more.
 
-Though there is a number of workflows available, we mostly use the following two:
+Though there is a number of workflows available, we mostly use **Github Workflow**:
 
-1. [Feature Branch Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)
-2. [GitHub Workflow](https://guides.github.com/introduction/flow/)
+1. Make sure your `master` branch is up to date
+2. Create a separate feature branch with descriptive name, e.g. `feature/user-authentication`
+3. Make your changes
+4. Push the feature branch to remote repo
+5. Make a PR to `master` branch, request a peer code review from your colleague
+6. After you've passed it successfully, merge it!
 
 <details>
 
 <summary> :books: Read more on Git Workflows </summary>
+
+_Mandatory:_
+
+- [GitHub Workflow visualization](https://guides.github.com/introduction/flow/)
 
 _Optional:_
 
