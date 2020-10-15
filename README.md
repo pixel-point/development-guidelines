@@ -104,13 +104,16 @@ _Optional:_
 There are three basic features a commit needs to have to be atomic:
 
 1. **Single, irreducible unit**
-   Every commit pertains to one fix/feature/refactoring.
+
+Every commit pertains to one fix/feature/refactoring.
 
 2. **Everything works**
-   Commit shouldn't break the build on any commit.
+
+Commit shouldn't break the build on any commit.
 
 3. **Clear and concise**
-   Purpose is clear from commit message and description
+
+Purpose is clear from commit message and description
 
 <details>
 <summary>:books: Read more on atomic commits:</summary>
