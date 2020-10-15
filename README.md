@@ -21,6 +21,7 @@
     - [Use permalinks](#use-permalinks-when-discussing-code)
     - [Use issue labels](#use-issue-labels)
 - [Code](#code)
+- [Development guidelines contribution](#development-guidelines-contribution)
 
 ## Before you begin
 
@@ -226,3 +227,21 @@ We try to keep our code as clean and as obvious as possible and we ask you to do
 4. We try to avoid using shortcuts in our styles where it is possible. E.g. if we need to set the background color, we use `background-color`, if we need to set top and bottom paddings, we use `padding-top` and `padding-bottom`, if we need to set border radius for a specific corner, we use, for example, `border-top-right-radius`.
 5. We try to use SASS variables everywhere where it is possible. We always have font styles and common colors in SASS variables that should always be used. Before starting to work on the project, make sure that you check what SASS variables the project has.
 6. We try to use round numbers in our styles where it is possible since our designers try to do the same when creating the design of the website. Mostly it concerns paddings and margins.
+
+## Development guidelines contribution
+
+### Typo
+
+If you spotted a typo, indentation or hierarchy inaccuracy, please, submit a PR or raise an issue.
+
+### Content
+
+If you think some piece of content is suboptimal, provides irrelevant info, redundant, obsolete or needs to be changed in some way, please, raise an issue.
+
+### Structure
+
+If you think the structure of guidelines could be improved, please, raise an issue.
+
+### Other
+
+If you have an idea how to make guidelines better, but for some reason can not use Github tools to let contributors know about it, don't hesistate to reach [Kirill Bolotsky](https://github.com/BolotskyDev) in Slack or [Telegram](https://t.me/bolotskydev)
