@@ -12,10 +12,6 @@
 
 Git, simply put, is a tool to save versions of your code. You absolutely want to know at least a basic workflow and Git’s core features, different ways to undo changes or save multiple versions of a project, and how to collaborate with other team members.
 
-### Pull Requests
-
-Git, simply put, is a tool to save versions of your code. You absolutely want to know at least a basic workflow and Git’s core features, different ways to undo changes or save multiple versions of a project, and how to collaborate with other team members.
-
 If you don't feel confident using Git yet, you should spend some time exploring [Github's learning center](https://try.github.io/). There you can find more that enough resources to expand your Git knowledge
 
 #### Git commands cheat sheet
