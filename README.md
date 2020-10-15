@@ -10,7 +10,9 @@
 
 ### Git basics
 
-## Pull Requests
+Git, simply put, is a tool to save versions of your code. You absolutely want to know at least a basic workflow and Git’s core features, different ways to undo changes or save multiple versions of a project, and how to collaborate with other team members.
+
+### Pull Requests
 
 Git, simply put, is a tool to save versions of your code. You absolutely want to know at least a basic workflow and Git’s core features, different ways to undo changes or save multiple versions of a project, and how to collaborate with other team members.
 
