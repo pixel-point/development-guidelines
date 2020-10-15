@@ -10,6 +10,8 @@
 
 ### Git basics
 
+## Pull Requests
+
 Git, simply put, is a tool to save versions of your code. You absolutely want to know at least a basic workflow and Git’s core features, different ways to undo changes or save multiple versions of a project, and how to collaborate with other team members.
 
 If you don't feel confident using Git yet, you should spend some time exploring [Github's learning center](https://try.github.io/). There you can find more that enough resources to expand your Git knowledge
@@ -157,6 +159,14 @@ The Conventional Commits specification is a lightweight convention on top of com
 We opted in for CC because they make it easier for team members to work on projects by allowing them to explore a more structured commit history. Also CC comes in handy when we want to automate routine tasks on certain projects, such as generating CHANGELOG, triggering build and publishing processes, determining a semantic version bump etc.
 
 <details>
+<summary> :heavy_exclamation_mark: Examples</summary>
+
+![image](https://user-images.githubusercontent.com/20713191/93302208-0af33700-f813-11ea-8d5d-ea4fae2ef8ab.png)
+
+</details>
+
+<details>
+
 <summary> :books: Read more on atomic commits: </summary>
 
 _Mandatory_
