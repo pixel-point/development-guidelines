@@ -279,7 +279,7 @@ _Optional:_
 
 </details>
 
-#### You Aren't Going To Need It
+#### You Aren't Gonna Need It
 
 We do not solve problems that do not exist and want you to do the same. Never code for functionality on the chance that you may need it in the future.
 
@@ -411,7 +411,7 @@ Remember, variables should give an answer for **What is**, functions for **What 
 
 <details>
 
-<summary>:heavy_exclamation_mark:</summary>
+<summary>:heavy_exclamation_mark: Examples</summary>
 
 ```javascript
 // bad
@@ -431,6 +431,10 @@ const sendEmails = () => {}
 
 Each variable has to have an origin that is easy to find, otherwise that would be confusing on the reader’s end.
 
+<details>
+
+<summary>:heavy_exclamation_mark: Examples</summary>
+
 ```javascript
 /* bad */
 // Reader would have no clue on what 86400000 is
@@ -441,6 +445,8 @@ const MILLISECONDS_IN_A_DAY = 86_400_000;
 
 setTimeout(blastOff, MILLISECONDS_IN_A_DAY);
 ```
+
+</details>
 
 #### Avoid mental mapping
 
